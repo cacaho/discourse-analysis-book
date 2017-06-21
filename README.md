@@ -1,5 +1,9 @@
 # 文脈解析- 述語項構造・照応・談話構造の解析 -   
 
+![表紙](https://github.com/cacaho/discourse-analysis-book/blob/img/front.png)
+
+---
+
 自然言語処理シリーズ第10巻『[文脈解析- 述語項構造・照応・談話構造の解析 -](http://www.coronasha.co.jp/np/isbn/9784339027600/)』（コロナ社）の正誤表です。  
 書籍の誤植等を見つけられた方は[Issue](https://github.com/cacaho/discourse-analysis-book/issues)を作ってお知らせいただくか、[@cacaho](https://twitter.com/cacaho)までお知らせいただけると幸いです。
 
