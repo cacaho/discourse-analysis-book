@@ -1,6 +1,6 @@
 # 文脈解析- 述語項構造・照応・談話構造の解析 -   
 
-<img src="https://github.com/cacaho/discourse-analysis-book/blob/img/front.png" height="200pt">
+<img src="https://github.com/cacaho/discourse-analysis-book/blob/img/front.png" height="300pt">
 
 ---
 
