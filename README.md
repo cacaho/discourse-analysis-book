@@ -16,3 +16,4 @@
 | [#5](https://github.com/cacaho/discourse-analysis-book/issues/5) | [@cacaho](https://twitter.com/cacaho) | p.148 式(A.4) | k=0,1 | k=0,1,2 | 初版第２刷 |
 | [#6](https://github.com/cacaho/discourse-analysis-book/issues/6) | [@cacaho](https://twitter.com/cacaho) | p.154 ２行目 | s_a(i), s_b(i) | s_a_i, s_b_i | 初版第２刷 |
 || [@D_Plius](https://twitter.com/D_Plius/status/1250263364485263371)様 | p.109 例3.44の後２行目 | 「備える」のガ格 | 「伴い」のガ格 | 未修整 |
+|| [@D_Plius](https://twitter.com/D_Plius/status/1250342449005772800)様 | p.148～153 式(A.4)、(A.8)、<br>(A.9)、P158の下から2行目 | <img src="https://github.com/cacaho/discourse-analysis-book/blob/img/errata2-1.png" height="16pt"> (斜体) | <img src="https://github.com/cacaho/discourse-analysis-book/blob/img/errata2-2.png" height="16pt"> (立体) | 未修整 |
